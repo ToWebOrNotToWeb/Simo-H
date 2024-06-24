@@ -4,7 +4,7 @@ Chaque année de sorte les rapport du global digital report. Ce chat bot permet 
 
 ## Utilisation 
 
-Dans le cmd `git clone `
+Dans le cmd `git clone git@github.com:ToWebOrNotToWeb/Simo-H.git`
 
 Modifier l'année dans le code
 
